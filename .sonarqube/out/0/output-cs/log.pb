@@ -1,0 +1,1 @@
+Roslyn version: 3.11.0.0Language version: CSharp7_3!Concurrent execution: enabled­¨File 'C:\Users\Vinay\Desktop\ASP_DOT_NET\ASP_DOT_NET\samples-dotnet-helloworld\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs' was recognized as generated
